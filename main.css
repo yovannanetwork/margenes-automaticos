@@ -1,1 +1,21 @@
-/* Escribe aqui tu CSS */
+.laboratoria {
+    margin-right: 750px;
+    border: solid yellow;
+    border-width: 12px;
+    text-align: center;
+    padding: 20px
+}
+.programacion {
+    margin-left: 400px;
+    margin-right: 350px;
+    text-align: left;
+    border: solid yellow;
+    border-width: 12px;
+    padding: 20px;
+    
+}
+p {
+    font-family: arial black;
+    font-size: 11px;
+    color: black;
+}
